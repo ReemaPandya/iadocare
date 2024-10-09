@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "170059933521",
+    "project_id": "iadocare",
+    "storage_bucket": "iadocare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170059933521:android:2e663c76ff2fd45caad570",
+        "android_client_info": {
+          "package_name": "com.example.iadocare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170059933521-varafqviidmpvmjavpnb8t6fl4gl5u40.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iadocare",
+            "certificate_hash": "b10d53cf848f0b810e25d22248ed29ebbd5dbc3d"
+          }
+        },
+        {
+          "client_id": "170059933521-4mi8g4fsnuc8h55b5e9vqs7m61vdprq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFvJXJmIaJszmFaPyp00UeoncV_xju1cA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170059933521-4mi8g4fsnuc8h55b5e9vqs7m61vdprq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
